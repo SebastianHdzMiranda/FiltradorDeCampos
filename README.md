@@ -1,8 +1,6 @@
 # Proyecto de busquedas multiples
     proyecto en js de buscador de autos, para reforzar bases del lenguaje.
 
-    <img src="img/foto-beta.png" alt="foto-proyecto">
-
 # change
     un evento que reacciona al cambiar el valor del select
 # funciones de alto nivel 
